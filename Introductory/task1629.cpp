@@ -1,3 +1,7 @@
+/*
+  CSES Task 1629
+  ý tưởng là sort theo thời gian kết thúc, vì thời gian kết thúc càng sớm thì càng có thời gian trống nhiều hơn (trực giác bruh)
+*/
 #include "bits/stdc++.h"
 using namespace std;
 
